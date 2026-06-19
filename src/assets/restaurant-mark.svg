@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-label="Restaurant table illustration">
+  <rect width="220" height="220" rx="44" fill="#fff7ed"/>
+  <circle cx="110" cy="110" r="72" fill="#f97316" opacity=".16"/>
+  <circle cx="110" cy="110" r="48" fill="#ffffff" stroke="#0f766e" stroke-width="8"/>
+  <path d="M72 72v76M84 72v76M72 108h12M148 72v76" stroke="#111827" stroke-width="8" stroke-linecap="round"/>
+  <path d="M104 104c10-14 24-14 34 0" stroke="#f97316" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <circle cx="108" cy="124" r="6" fill="#0f766e"/>
+  <circle cx="130" cy="124" r="6" fill="#0f766e"/>
+</svg>
