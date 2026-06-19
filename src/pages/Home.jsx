@@ -74,6 +74,10 @@ export default function Home() {
             onChange={(e) => setSearchQuery(e.target.value)}
           />
         </div>
+
+        <Link to="/login" style={{ marginLeft: 'auto', padding: '0.5rem 1rem', textDecoration: 'none', color: 'var(--primary)', fontWeight: 'bold', border: '1px solid var(--primary)', borderRadius: '6px' }}>
+          Admin Login
+        </Link>
       </nav>
 
       <div className="category-pills">
